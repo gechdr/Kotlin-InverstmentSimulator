@@ -1,4 +1,4 @@
-package com.example.tugasm1
+package com.example.tugasm2_6958
 
 import org.junit.Test
 

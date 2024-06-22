@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TugasM1"
+rootProject.name = "TugasM2_6958"
 include(":app")
- 
